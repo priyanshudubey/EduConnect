@@ -1,0 +1,6 @@
+/student-crm/node_modules
+/student-crm/.env
+/student-crm/.env.local
+
+/student-crm-backend/node_modules
+/student-crm-backend/.env
